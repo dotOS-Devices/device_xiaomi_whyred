@@ -228,9 +228,12 @@ PRODUCT_PROPERTY_OVERRIDES += \
     DEVICE_PROVISIONED=1 \
     persist.vendor.radio.snapshot_enabled=1 \
     persist.vendor.radio.snapshot_timer=5 \
-    persist.radio.sw_mbn_update=0
-    persist.radio.hw_mbn_update=0
-    persist.radio.trigger.silence=true
+    persist.radio.sw_mbn_update=0 \
+    persist.radio.hw_mbn_update=0 \
+    persist.radio.trigger.silence=true \
+    persist.radio.data_ltd_sys_ind=1 \
+    persist.radio.data_con_rprt=1 \
+    persist.radio.calls.on.ims=1
 
 # Security Patch Level
 PRODUCT_PROPERTY_OVERRIDES += \
