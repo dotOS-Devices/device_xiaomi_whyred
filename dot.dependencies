@@ -8,12 +8,6 @@
     "target_path": "vendor/xiaomi/whyred"
   },
   {
-    "repository": "LineageOS/android_packages_resources_devicesettings",
-    "target_path": "packages/resources/devicesettings",
-    "branch": "lineage-15.1",
-    "remote": "github"
-  },
-   {
     "repository": "Sweeto143/clang-prebuilt",
     "target_path": "prebuilts/clang/host/linux-x86/clang-7.0.2",
     "branch": "7.0.2",
