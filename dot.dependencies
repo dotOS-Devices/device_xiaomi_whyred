@@ -8,15 +8,11 @@
     "target_path": "vendor/xiaomi/whyred"
   },
   {
-    "repository": "Sweeto143/clang-prebuilt",
-    "target_path": "prebuilts/clang/host/linux-x86/clang-7.0.2",
-    "branch": "7.0.2",
-    "remote": "github"
+    "repository": "clang-prebuilt",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-7.0.2"
   },
   {
-    "repository": "Sweeto143/vendor_xiaomi_MiuiCamera",
-    "target_path": "vendor/xiaomi/MiuiCamera",
-    "branch": "master",
-    "remote": "github"
+    "repository": "vendor_xiaomi_MiuiCamera",
+    "target_path": "vendor/xiaomi/MiuiCamera"
   }
 ]
